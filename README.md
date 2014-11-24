@@ -1,4 +1,4 @@
 JerryTest1
 ==========
 
-Just a simiple one time test
+Just a simiple one time test.  of course.
